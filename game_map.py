@@ -1,4 +1,4 @@
-from game_logger import GameLogger
+from LAB1.game_logger import GameLogger
 
 class Map:
     def __init__(self, size, counterOfShips):
