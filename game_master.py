@@ -1,5 +1,5 @@
 from game_map import Map
-from LAB1.game_logger import GameLogger
+from game_logger import GameLogger
 
 class MasterClass:
     def __init__(self, winner, move):
